@@ -1,0 +1,12 @@
+{
+  "name": "dio-codes",
+  "version": "1.0.0",
+  "author": "wesleybritovlk",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.6",
+    "readline-sync": "^1.4.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
